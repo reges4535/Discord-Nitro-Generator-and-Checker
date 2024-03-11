@@ -1,5 +1,4 @@
-# https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/
-# I cleaned up a lot, including adding color, multithreading (thanks https://git.io/JsDmT), and auto module install
+
 
 import os
 import random
